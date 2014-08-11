@@ -1,0 +1,1 @@
+current Airphrame firmware version: 3.03
