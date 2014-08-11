@@ -1,0 +1,7 @@
+source: plane.arduplane.com
+
+The X8 varies a lot in how people set it up, but you usually need parameters around this range:
+
+RLL2SRV_P: 0.8
+PTCH2SRV_P: 0.5
+NAVL1_PERIOD: 19

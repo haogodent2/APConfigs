@@ -1,0 +1,3 @@
+stable 8_6_14 is for control rod attached to the bottom of control horn! either cobra motor or the exceed rc motor.
+
+stable 8_7_14 has control rods attached to second from top control horn.  running exceed rc 3020 950kv motor
